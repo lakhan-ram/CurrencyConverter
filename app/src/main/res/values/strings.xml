@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CurrencyConverter</string>
+    <string name="convert">Convert</string>
+    <string name="data_provided_by_exchangerate_api_n_https_www_exchangerate_api_com">Data provided by ExchangeRate-API \n(https://www.exchangerate-api.com)</string>
+</resources>
